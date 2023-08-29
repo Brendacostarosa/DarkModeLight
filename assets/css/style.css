@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;700&family=Orbitron:wght@400;500;600;700;800;900&family=Poppins:wght@200;900&family=Teko&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Teko', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    width: 140px;
+    height: 60px;
+    margin: 100px;
+    background-color: #fff;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: bold   
+}
